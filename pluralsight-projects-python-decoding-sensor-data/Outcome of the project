@@ -1,0 +1,36 @@
+## Final Output of the Project 
+
+(#Number of Records that is loaded)
+-Loaded Records: 2000
+
+House sensor records for area 1 = 1000
+
+House sensor records for date 05/09/20 = 20
+
+House Temperature sensor records for area 1 = 1000
+        Maximum: 80, Minimum: 60 temperatures
+
+House Temperature sensor records for date: 05/09/20 = 20
+        Maximum: 82, Minimum: 80 temperatures
+
+House Humidity sensor records for area 1 = 1000
+        Average: 60.19 humidity
+House Humidity sensor records for date: 05/09/20 = 20
+        Averrage: 54.8 humidity
+
+House Particle sensor records for area 1 = 1000
+        Good Air Quality Recs: 284
+        Moderate Air Quality Recs: 366
+        Bad Air Quality Recs: 350
+
+House Particle sensor records for date: 05/09/20 = 20
+        Good Air Quality Recs: 0
+        Moderate Air Quality Recs: 0
+        Bad Air Quality Recs: 20
+
+House Energy sensor records for area 1 = 1000
+        Energy Usage: 1.5e+03 Watts
+
+House Energy sensor records for date: 05/09/20 = 20
+        Energy Usage: 1.9e+01 Watts
+  
