@@ -63,6 +63,6 @@ You should see that all the tests are failing. This is good! We’ll be fixing t
 
 Every time you want to check your work locally you can type that command, and it will report the status of every task in the project.
 
-## Previewing Your Work
+## Previewing the Work
 
 You can preview your work by opening a terminal, changing to the project root, activating the virtual environment, and executing the appropriate python script. For example `python sensor/sensor.py`.
